@@ -3,7 +3,7 @@
 ### Olá! Eu sou o Alexandre Evangelista 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xand_evangelista/)
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/xand-evangelista](https://www.linkedin.com/in/xand-evangelista/))
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/xand-evangelista]([https://www.linkedin.com/in/xand-evangelista/](https://www.linkedin.com/in/xandevangelista/)))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alefernandocampos38@gmail.com)
 
 
